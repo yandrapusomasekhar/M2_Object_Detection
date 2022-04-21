@@ -9,3 +9,5 @@
 [![Code Quality - Cppcheck](https://github.com/yandrapusomasekhar/M2_Object_Detection/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/yandrapusomasekhar/M2_Object_Detection/actions/workflows/c-cpp.yml)
 
 [![Build_CI - Linux](https://github.com/yandrapusomasekhar/M2_Object_Detection/actions/workflows/linux.yml/badge.svg)](https://github.com/yandrapusomasekhar/M2_Object_Detection/actions/workflows/linux.yml)
+
+[![Bulid CI - windows](https://github.com/yandrapusomasekhar/M2_Object_Detection/actions/workflows/Windows.yml/badge.svg)](https://github.com/yandrapusomasekhar/M2_Object_Detection/actions/workflows/Windows.yml)
