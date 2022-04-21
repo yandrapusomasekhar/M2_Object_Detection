@@ -11,3 +11,5 @@
 [![Build_CI - Linux](https://github.com/yandrapusomasekhar/M2_Object_Detection/actions/workflows/linux.yml/badge.svg)](https://github.com/yandrapusomasekhar/M2_Object_Detection/actions/workflows/linux.yml)
 
 [![Bulid CI - windows](https://github.com/yandrapusomasekhar/M2_Object_Detection/actions/workflows/Windows.yml/badge.svg)](https://github.com/yandrapusomasekhar/M2_Object_Detection/actions/workflows/Windows.yml)
+
+[![Git Inspector](https://github.com/yandrapusomasekhar/M2_Object_Detection/actions/workflows/Git%20Inspector.yml/badge.svg)](https://github.com/yandrapusomasekhar/M2_Object_Detection/actions/workflows/Git%20Inspector.yml)
