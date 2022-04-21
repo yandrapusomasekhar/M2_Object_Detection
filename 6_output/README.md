@@ -1,3 +1,0 @@
-# M2_Object_Detection
-
-
