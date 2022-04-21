@@ -14,6 +14,22 @@
 
 [![Git Inspector](https://github.com/yandrapusomasekhar/M2_Object_Detection/actions/workflows/Git%20Inspector.yml/badge.svg)](https://github.com/yandrapusomasekhar/M2_Object_Detection/actions/workflows/Git%20Inspector.yml)
 
+## Folder Structure
+Folder             | Description
+-------------------| -----------------------------------------
+`0_Abstract`       | About Project
+`1_Requirements`   | Documents containing requirements 
+`2_Design`         | Documents specifying design details of circuit
+`3_Implementation` | All required codes and documentation
+`4_TestCases`      | low and High level Requirements
+`5_Report`         | Report all the details about project
+`6_Output`         | Documents with simulation Images
+
+## Learning Platforms
+* Youtube
+* future skills
+* geeks for geeks
+
 ![Object Detection Off](https://user-images.githubusercontent.com/101333790/164445734-d65fb334-82b2-4fcb-bd13-2cd8fc68485d.png)
 
 
