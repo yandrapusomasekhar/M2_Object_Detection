@@ -19,4 +19,4 @@
  
 | OFF | ON |
 | --- | --- |
-| <img src="4_TestCases/Object Detection Off.png" width="400"> | <img src="4_TestCases/ Object Detection On.png" width="400"> |
+| <img src="4_TestCases/ObjectDetectionOff.png" width="400"> | <img src="4_TestCases/ ObjectDetectionOn.png" width="400"> |
