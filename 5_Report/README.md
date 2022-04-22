@@ -78,7 +78,8 @@ __Low Level Requirements__
 
 
 ## Block Diagram
-![image](https://user-images.githubusercontent.com/91029826/144367585-f03da840-93c5-4f1a-ab9e-454a8af077d6.png)
+![Block Diagram](https://user-images.githubusercontent.com/101333790/164613770-dd576506-5c95-4fde-bb47-a407a598c4e5.jpeg)
+
 
 ## Structural Diagram
 ![Structural Diagram](https://user-images.githubusercontent.com/101333790/164613505-70deeed6-dafe-4dce-bb31-9b72155b19af.jpeg)
