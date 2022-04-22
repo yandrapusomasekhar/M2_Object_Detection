@@ -74,7 +74,8 @@ __Low Level Requirements__
 | LLR3 | LCD   | Used for the output calculations |
 
 ## Behavioural Diagram
-![image](https://user-images.githubusercontent.com/91029826/144367461-52d7c8b8-a474-4ce7-84e4-5db6326b2d5f.png)
+![Behaviour Diagram](https://user-images.githubusercontent.com/101333790/164613631-3f01aaeb-fdbe-4944-9bf5-39a8102756d5.jpeg)
+
 
 ## Block Diagram
 ![image](https://user-images.githubusercontent.com/91029826/144367585-f03da840-93c5-4f1a-ab9e-454a8af077d6.png)
