@@ -87,7 +87,7 @@ __Low Level Requirements__
 ![image](https://user-images.githubusercontent.com/91029826/144368442-4565e888-4cf0-4dd4-8e62-5d31654e1dd5.png)
 
 ## __ON__
-![image](https://user-images.githubusercontent.com/91029826/144380687-e883ca20-8f5c-4344-808c-cf896e4dfc2a.png)
+![Object Detection On](https://user-images.githubusercontent.com/101333790/164467667-4341e3af-0586-4008-8581-2e7438cae206.png)
 
 ## Test Plan
 ## High Level Test Plan
