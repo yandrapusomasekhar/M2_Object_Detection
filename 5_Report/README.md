@@ -80,7 +80,8 @@ __Low Level Requirements__
 ![image](https://user-images.githubusercontent.com/91029826/144367585-f03da840-93c5-4f1a-ab9e-454a8af077d6.png)
 
 ## Structural Diagram
-![image](https://user-images.githubusercontent.com/91029826/144367667-b5f4bc61-4e0c-4d93-be49-246061a7af04.png)
+![Structural Diagram](https://user-images.githubusercontent.com/101333790/164613505-70deeed6-dafe-4dce-bb31-9b72155b19af.jpeg)
+
 
 ## Simulation
 ## __OFF__
